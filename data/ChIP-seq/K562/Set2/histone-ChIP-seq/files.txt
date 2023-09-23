@@ -1,0 +1,12 @@
+https://www.encodeproject.org/files/ENCFF756PXB/@@download/ENCFF756PXB.bigWig
+https://www.encodeproject.org/files/ENCFF205XIA/@@download/ENCFF205XIA.bigWig
+https://www.encodeproject.org/files/ENCFF549UCT/@@download/ENCFF549UCT.bigWig
+https://www.encodeproject.org/files/ENCFF238HRU/@@download/ENCFF238HRU.bigWig
+https://www.encodeproject.org/files/ENCFF180ADZ/@@download/ENCFF180ADZ.bigWig
+https://www.encodeproject.org/files/ENCFF073AOF/@@download/ENCFF073AOF.bigWig
+https://www.encodeproject.org/files/ENCFF173IRF/@@download/ENCFF173IRF.bigWig
+https://www.encodeproject.org/files/ENCFF589UOY/@@download/ENCFF589UOY.bigWig
+https://www.encodeproject.org/files/ENCFF908NCE/@@download/ENCFF908NCE.bigWig
+https://www.encodeproject.org/files/ENCFF049GYN/@@download/ENCFF049GYN.bigWig
+https://www.encodeproject.org/files/ENCFF905EHT/@@download/ENCFF905EHT.bigWig
+

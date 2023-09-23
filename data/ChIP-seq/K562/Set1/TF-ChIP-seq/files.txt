@@ -1,0 +1,5 @@
+https://www.encodeproject.org/files/ENCFF377CPT/@@download/ENCFF377CPT.bigWig
+https://www.encodeproject.org/files/ENCFF585IAR/@@download/ENCFF585IAR.bigWig
+https://www.encodeproject.org/files/ENCFF596CNE/@@download/ENCFF596CNE.bigWig
+https://www.encodeproject.org/files/ENCFF886EZS/@@download/ENCFF886EZS.bigWig
+https://www.encodeproject.org/files/ENCFF433VSV/@@download/ENCFF433VSV.bigWig

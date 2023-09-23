@@ -1,0 +1,4 @@
+https://www.encodeproject.org/files/ENCFF328QSA/@@download/ENCFF328QSA.bigWig
+https://www.encodeproject.org/files/ENCFF801XWA/@@download/ENCFF801XWA.bigWig
+https://www.encodeproject.org/files/ENCFF580SEC/@@download/ENCFF580SEC.bigWig
+https://www.encodeproject.org/files/ENCFF546WUK/@@download/ENCFF546WUK.bigWig

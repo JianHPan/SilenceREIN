@@ -1,0 +1,11 @@
+https://www.encodeproject.org/files/ENCFF125NHB/@@download/ENCFF125NHB.bigWig
+https://www.encodeproject.org/files/ENCFF942QHN/@@download/ENCFF942QHN.bigWig
+https://www.encodeproject.org/files/ENCFF493VUL/@@download/ENCFF493VUL.bigWig
+https://www.encodeproject.org/files/ENCFF094ZKB/@@download/ENCFF094ZKB.bigWig
+https://www.encodeproject.org/files/ENCFF219ZOU/@@download/ENCFF219ZOU.bigWig
+https://www.encodeproject.org/files/ENCFF554XSR/@@download/ENCFF554XSR.bigWig
+https://www.encodeproject.org/files/ENCFF764DUI/@@download/ENCFF764DUI.bigWig
+https://www.encodeproject.org/files/ENCFF747JGO/@@download/ENCFF747JGO.bigWig
+https://www.encodeproject.org/files/ENCFF449LNO/@@download/ENCFF449LNO.bigWig
+https://www.encodeproject.org/files/ENCFF767KKA/@@download/ENCFF767KKA.bigWig
+https://www.encodeproject.org/files/ENCFF192NNA/@@download/ENCFF192NNA.bigWig

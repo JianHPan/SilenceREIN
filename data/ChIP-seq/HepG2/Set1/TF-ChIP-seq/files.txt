@@ -1,0 +1,4 @@
+https://www.encodeproject.org/files/ENCFF704FRG/@@download/ENCFF704FRG.bigWig
+https://www.encodeproject.org/files/ENCFF425QWQ/@@download/ENCFF425QWQ.bigWig
+https://www.encodeproject.org/files/ENCFF144BYA/@@download/ENCFF144BYA.bigWig
+https://www.encodeproject.org/files/ENCFF582JVP/@@download/ENCFF582JVP.bigWig

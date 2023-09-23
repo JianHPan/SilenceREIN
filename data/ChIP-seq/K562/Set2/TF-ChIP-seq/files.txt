@@ -1,0 +1,4 @@
+https://www.encodeproject.org/files/ENCFF468JNP/@@download/ENCFF468JNP.bigWig
+https://www.encodeproject.org/files/ENCFF971EFJ/@@download/ENCFF971EFJ.bigWig
+https://www.encodeproject.org/files/ENCFF940GLX/@@download/ENCFF940GLX.bigWig
+https://www.encodeproject.org/files/ENCFF803BJP/@@download/ENCFF803BJP.bigWig
