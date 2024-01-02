@@ -229,3 +229,6 @@ Create performance comparison plots for SilenceREIN (and SilenceREIN-alt) agains
 
 #### FigureS3:
 Create performance comparison plots for SilenceREIN (and SilenceREIN-alt) against CNN, DeepSilencer, and gkmSVM based on HiChIP data in the K562 cell line.
+
+## Cite:
+[1]	Jianhua Pan, Pufeng Du. SilenceREIN: seeking silencers on anchors of chroma-tin loops by deep graph neural networks. 10.1093/bib/bbad494.
